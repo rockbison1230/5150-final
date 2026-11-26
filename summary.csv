@@ -1,0 +1,5 @@
+method,attribute_combination_agreement,available_original_count_mae,unavailable_original_count_fraction,uniquely_determined_joint_cells
+Unprotected,0.96,0.0,0.0,4
+Coarsening (4 age groups to 2),0.54,0.0,0.8,0
+Suppression (count below 5),0.96,0.0,0.3,4
+Laplace (epsilon=1; one draw),0.82,4.4128074844572955,0.0,
